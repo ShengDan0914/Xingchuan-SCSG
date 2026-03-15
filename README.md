@@ -1,2 +1,1 @@
-# --SCSG
-星川服务器,带来极致的游戏体验
+# Xingchuan-SCSG
